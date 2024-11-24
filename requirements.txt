@@ -1,0 +1,8 @@
+flask
+werkzeug
+fpdf
+python-docx
+pdf2docx
+PyPDF2
+pandas
+openpyxl
